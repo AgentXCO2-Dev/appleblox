@@ -1,7 +1,7 @@
 # Appleblox but for windows!
 ----
 
-image will be here soon.
+<img width="642" height="683" alt="Screenshot 2026-08-22 140218" src="https://github.com/user-attachments/assets/d66f75a6-a35e-4bcc-be15-4ca1dc098351" />
 
 ----
 Like Appleblox but don't have MacOS or a Macbook?
