@@ -37,5 +37,9 @@ Original Appleblox created for MacOS was built by 4 people!
 | Mods | Mods allow users to customize Roblox by adding supported modifications and enhancements to their client. |
 | Intergrations | Integrations connect Appleblox with other apps and services, allowing them to work together and add additional functionality. |
 
-I will explain more in the release with the .exe file!
-Stay tuned.
+# What is Appleblox?
+Appleblox is a MacOS launcher for Roblox, but in this version, Appleblox is made for Windows!
+Its pretty much the same as Appleblox, just useable for windows!
+
+I'll post more information about Appleblox for windows soon.
+Stay tuned!
